@@ -1,26 +1,24 @@
-Aquascapes
+# Aquascapes
 
-This project is a clone of the popular mobile game "Stack," developed using Unity and C#. The game aims to recreate the addictive and challenging experience of stacking blocks to create the tallest tower possible.
+Aquascapes is a delightful mobile puzzle game set on a charming summer island. Your objective is to connect pipes from one water tank to another, all while enjoying the serene ambiance of the surroundings.
 
-Staack!!_Icon
+![image](https://github.com/Levetskyi/Aquascapes/assets/153874337/2c40dadb-4bfc-4698-9153-9342ffb659a3)
 
-Features:
+## Features:
+- Music: Immerse yourself in the tranquil atmosphere with soothing background music. (Can be turned off)
+- Vibration: Enhance your gaming experience with subtle vibrations. (Can be turned off)
+- Camera Rotation: Explore every angle of the picturesque island with intuitive camera rotation.
+- Zoom: Get up close and personal with the vibrant scenery using the zoom feature.
 
-    Gameplay Mechanics: Experience the classic stacking gameplay where blocks descend, and the player must align them perfectly to build a tower.
-    Endless Mode: Test your skills in an endless mode where the difficulty gradually increases as the tower grows taller.
-    Sleek UI/UX: Enjoy a clean and intuitive user interface designed for an engaging gaming experience.
-    Scoring System: Keep track of your high scores and challenge yourself to beat them.
+![image](https://github.com/Levetskyi/Aquascapes/assets/153874337/e961dc5a-a64a-48be-ad37-ffee5de1775e)
 
-How to Play:
+![image](https://github.com/Levetskyi/Aquascapes/assets/153874337/5d7c4ddb-4491-4164-bbb2-b4bb5904e628)
 
-    Stacking Blocks: Place the descending blocks onto the existing tower by tapping at the right moment to create a perfectly stacked layer.
-    Building the Tower: Aim to stack blocks as accurately as possible to keep the tower stable and prevent any parts from being trimmed off.
-    Endless Challenge: Keep stacking to achieve the highest tower possible without losing any pieces.
+## How to Play:
+Tap on the pipes to rotate them and create a clear path between the water tanks. Your task is to strategically connect the pipes to ensure the smooth flow of water. Keep an eye on the timer and aim to complete each level before time runs out!
 
-Development:
+## Development:
 
-This project was developed as a personal endeavor to learn Unity and C# game development. Feel free to explore the codebase, provide feedback, or contribute to enhance the gameplay experience.
+Aquascapes utilizes the breadth-first search (BFS) algorithm as its main mechanism. Dive into the intricacies of puzzle-solving as you navigate through the challenges of the island's plumbing system.
 
-Staack!!_1
-
-Screen Recording (12-16-2023 5-09-08 PM)
+![image](https://github.com/Levetskyi/Aquascapes/assets/153874337/ebcf4897-34cc-42a0-aa2b-4209a90382b0)
