@@ -2,11 +2,11 @@
 
 Aquascapes is a delightful mobile puzzle game set on a charming summer island. Your objective is to connect pipes from one water tank to another, all while enjoying the serene ambiance of the surroundings.
 
+![image](https://github.com/Levetskyi/Aquascapes/assets/153874337/c32b8b60-9800-40ac-9b60-10f805642d9e)
+
 ![Aqua_1](https://github.com/Levetskyi/Aquascapes/assets/153874337/c9c56bdf-b25b-43bd-bed9-8e31b8c344cc)
 
 ![Aqua_3](https://github.com/Levetskyi/Aquascapes/assets/153874337/4fe6ea9d-64ae-4f36-b230-fe35de9050e1)
-
-![image](https://github.com/Levetskyi/Aquascapes/assets/153874337/c32b8b60-9800-40ac-9b60-10f805642d9e)
 
 ## Features:
 - Music: Immerse yourself in the tranquil atmosphere with soothing background music. (Can be turned off)
